@@ -1,0 +1,141 @@
+/* font-family: 'Lobster', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
+/* colors
+white #f2f2f2
+blue #4976ca
+grey blue #bdd7ee */
+
+
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 50px 30px;
+}
+
+
+.navItemspace{
+    margin: 0 17px;
+}
+.text-color{
+    color: black;
+    font-weight: 600;
+}
+
+.navMargin{
+    margin-left: 120px;
+}
+
+#title{
+    margin: 50px 30px;
+}
+
+/* .rounded-btn{
+    border-radius: 20px;
+    font-family: 'Lobster', sans-serif;
+} */
+
+.firstpart{
+    background-color: #bdd7ee;
+    margin-top: 27px;
+    border-radius: 15px;
+}
+
+.hello{
+    color:#4976ca ;
+    font-weight: 600;
+}
+
+.my{
+    color:#4976ca ; 
+    
+    font-family: cursive;
+}
+
+.fw500{
+    font-weight: 500;
+}
+
+.dpic{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    margin-left: auto;
+}
+
+.bigtext{
+    
+}
+
+
+/* Portfolio part */
+
+.leftPortfolio{
+    background-color: #f7e2f7;
+    border-radius: 20px;
+    margin-right: 5px;
+}
+
+.rightPortfolio{
+    background-color: #f7e2f7;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+
+.portfoliopic{
+    height: 50%;
+    width: 100%;
+}
+
+.portfolio-heading{
+    font-style: oblique;
+}
+/* my services */
+
+.shadow2{
+    box-shadow: 4px 4px 3px rgb(139, 134, 134);
+}
+.myservice{
+    margin: 80px 0;
+}
+
+.card-height{
+    height: 165px;
+}
+
+
+/* my working experiences */
+
+.working{
+    margin: 80px 70px;
+}
+
+.bluecolor{
+    background-color: #bdd7ee;
+
+}
+
+.float-div{
+    padding-left: 30px;
+}
+
+.padding-icon{
+    padding: 37px 25px;
+}
+/* 
+//.getInTouch */
+
+.getInTouch{
+    margin: 40px 60px;
+    padding: 50px 30px;
+    background-color:#e8ecf5 ;
+    color: #4a567c;
+}
+
+.contactus{
+    width: 70%;
+    text-align: center;
+}
+
+.btn-color{
+    background-color: #4468a6;
+}
