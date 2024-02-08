@@ -9,7 +9,7 @@ grey blue #bdd7ee */
 
 body{
     font-family: 'Raleway', sans-serif;
-    margin: 50px 30px;
+
 }
 
 
@@ -25,7 +25,7 @@ body{
     margin-left: 120px;
 }
 
-#title{
+.Side-Margin{
     margin: 50px 30px;
 }
 
@@ -138,4 +138,22 @@ body{
 
 .btn-color{
     background-color: #4468a6;
+}
+
+
+/* footer section */
+
+.footer-bg{
+   background-color: #4976ca;
+   margin-left: 0;
+   margin-right: 0;
+}
+
+.footer-side{
+   padding-left: 0;
+   padding-right: 0;
+}
+
+.copy-right{
+    background-color: #4976ca;
 }
